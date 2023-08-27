@@ -1,0 +1,4 @@
+package belajarTest
+
+class Mahasiswa {
+}
